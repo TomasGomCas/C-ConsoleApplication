@@ -1,0 +1,8 @@
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\bin\Debug\netcoreapp2.1\CSharp-ConsoleApplication.deps.json
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\bin\Debug\netcoreapp2.1\CSharp-ConsoleApplication.runtimeconfig.json
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\bin\Debug\netcoreapp2.1\CSharp-ConsoleApplication.runtimeconfig.dev.json
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\bin\Debug\netcoreapp2.1\CSharp-ConsoleApplication.dll
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.AssemblyInfo.cs
