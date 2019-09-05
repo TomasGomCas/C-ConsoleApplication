@@ -1,4 +1,5 @@
 ﻿using CSharp_ConsoleApplication.Classes;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -34,6 +35,26 @@ namespace CSharp_ConsoleApplication.Services
             return new Muro(posts);
         }
 
+        public static void post()
+        {
+            Post post = new Post("paco", "soy super paco ¡¡");
+            string postString = JsonConvert.SerializeObject(post);
+            byte[] data = UTF8Encoding.UTF8.GetBytes(postString);
+
+            HttpWebRequest request;
+            request = WebRequest.Create("https://curriculum-213a8.firebaseio.com/Muro.json") as HttpWebRequest;
+            request.Method = "POST";
+            request.ContentType = "application/json; charset=utf-8";
+
+            Stream postStream = request.GetRequestStream();
+            postStream.Write(data, 0, data.Length);
+
+            HttpWebResponse response = request.GetResponse() as HttpWebResponse;
+            StreamReader reader = new StreamReader(response.GetResponseStream());
+            string body = reader.ReadToEnd();
+
+            Console.WriteLine(body);
+        }
 
     } // END
 }
