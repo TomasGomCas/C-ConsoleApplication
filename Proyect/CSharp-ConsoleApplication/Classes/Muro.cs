@@ -23,7 +23,7 @@ namespace CSharp_ConsoleApplication.Classes
             string text = "";
             foreach (Post post in this.posts)
             {
-                text = text + " // USER: " + post.User + " // TEXT: " + post.Text + "\n\n";
+                text = text + " // USER: " + post.user + " // TEXT: " + post.text + "\n\n";
             }
 
             return text;

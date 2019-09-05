@@ -39,6 +39,7 @@ namespace CSharp_ConsoleApplication.Services
         {
             Post post = new Post("paco", "soy super paco ¡¡");
             string postString = JsonConvert.SerializeObject(post);
+            Console.WriteLine("ÑAÑAÑ: C" + postString);
             byte[] data = UTF8Encoding.UTF8.GetBytes(postString);
 
             HttpWebRequest request;

@@ -7,8 +7,8 @@ namespace CSharp_ConsoleApplication.Classes
     class Post
     {
         // ATRIBUTES
-        private string user;
-        private string text;
+        public string user;
+        public string text;
 
         // CONSTRUCTOR
         public Post(string user, string text)
@@ -20,7 +20,6 @@ namespace CSharp_ConsoleApplication.Classes
         // METHODS
 
         // GETTERS AND SETTERS
-        public string User { get => user; set => user = value; }
-        public string Text { get => text; set => text = value; }
-    }
+
+    } // END
 }

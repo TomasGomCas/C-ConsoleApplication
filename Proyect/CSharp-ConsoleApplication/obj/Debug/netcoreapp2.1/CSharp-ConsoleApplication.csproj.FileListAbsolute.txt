@@ -6,3 +6,6 @@ C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleAppl
 C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.csproj.CoreCompileInputs.cache
 C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.AssemblyInfoInputs.cache
 C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.AssemblyInfo.cs
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\bin\Debug\netcoreapp2.1\CSharp-ConsoleApplication.pdb
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.dll
+C:\Users\Tomas\Desktop\Repositorios\CSharp-ConsoleApplication\CSharp-ConsoleApplication\Proyect\CSharp-ConsoleApplication\obj\Debug\netcoreapp2.1\CSharp-ConsoleApplication.pdb
